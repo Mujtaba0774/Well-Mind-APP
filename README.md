@@ -1,1 +1,1 @@
-# Wind-Mind-APP
+# Well-Mind-APP
